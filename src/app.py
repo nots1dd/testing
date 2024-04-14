@@ -1,2 +1,1 @@
 print('yolo')
-print "homo"
